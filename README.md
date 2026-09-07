@@ -1,1 +1,1 @@
-# CSE-1101(Lab+Theory)Assignments
+# CSE-101(Lab+Theory)
