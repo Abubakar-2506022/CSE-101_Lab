@@ -1,1 +1,1 @@
-# CSE-101(Lab+Theory)
+# CSE-101(Lab)
